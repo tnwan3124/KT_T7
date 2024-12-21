@@ -1,0 +1,15 @@
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\NguyenThanhTung_2287700095.exe.config
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\NguyenThanhTung_2287700095.exe
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\NguyenThanhTung_2287700095.pdb
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.csproj.AssemblyReference.cache
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.frmSinhvien.resources
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.Properties.Resources.resources
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.csproj.GenerateResource.cache
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.csproj.CoreCompileInputs.cache
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.exe
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenThanhTung_2287700095.pdb
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\EntityFramework.dll
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\EntityFramework.xml
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Bai_Tap_Tren_Truong\KiemTra\NguyenThanhTung_2287700095\NguyenThanhTung_2287700095\obj\Debug\NguyenTh.DDC6989F.Up2Date
